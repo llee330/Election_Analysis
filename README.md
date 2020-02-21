@@ -15,4 +15,4 @@ A Colorado Board of Elections employee has given the following tasks to complete
 
 ## Summary 
 Using "For Loop", "if statement", dictionary and list creation, the analysis of the election show that: 
-There were 369,711 total votes. Jefferson County has a 10.5% voter with a total of 38,855, Denver county has an 82.8% voter with a total of 306,055, and lastly, Arapahoe has only 6.7% voter with a total of 24,801.  The winner is Diane DeGette who has 73.8% voters with a total of 272,892. Results are printed on text file - election_analysis in "analysis" folder.
+There were 369,711 total votes. Jefferson County has a 10.5% voter with a total of 38,855, Denver county has an 82.8% voter with a total of 306,055, and lastly, Arapahoe has only 6.7% voter with a total of 24,801.  The winner is Diane DeGette who has 73.8% voters with a total of 272,892. From the results, Charles Casper Stockham has 23.0% voter with a total of 85,213, and Raymon Anthony Doane has 3.1% voter with a total of 11,606. Results are printed on text file - election_analysis in "analysis" folder.
